@@ -2,11 +2,11 @@
 
 **Transform your regular bike into a smart electric bike with plug & play simplicity**
 
-BikeBoost adalah kit modular inovatif yang mengubah sepeda biasa menjadi sepeda listrik dengan sistem yang mudah dipasang. Dilengkapi dengan baterai portabel yang dapat ditukar (Swap System) dan aplikasi pemantauan canggih untuk pengalaman berkendara yang optimal.
+BikeBoost adalah kit modular inovatif yang mengubah sepeda biasa menjadi sepeda listrik dengan sistem yang mudah dipasang. Dilengkapi dengan aplikasi pemantauan canggih untuk pengalaman berkendara yang optimal.
 
 ## 📱 Aplikasi Android
 
-Aplikasi companion BikeBoost memberikan kontrol penuh dan monitoring real-time untuk perjalanan Anda.
+Aplikasi BikeBoost memberikan kontrol penuh dan monitoring real-time untuk perjalanan Anda.
 
 ### ✨ Fitur Utama
 
