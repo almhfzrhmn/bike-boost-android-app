@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PurpleSwitchTheme" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">#6C63FF</item>
+        <item name="android:colorForeground">#6C63FF</item>
+    </style>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    primary colors-->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_primary">#7C4DFF</color>
+    <color name="purple_dark">#5E35B1</color>
+    <color name="purple_light">#B39DDB</color>
+
+<!--    background_clors-->
+    <color name="dark_background">#1A1B2E</color>
+    <color name="card_background">#2D2F47</color>
+    <color name="progress_background">#404456</color>
+
+<!--    text-->
+    <color name="text_secondary">#A0A3BD</color>
+
+    <color name="transparent">#00000000</color>
+</resources>

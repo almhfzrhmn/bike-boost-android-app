@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="24" android:viewportHeight="24">
+
+    <!-- Background circle filled purple -->
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M12,2A10,10 0 1,0 22,12A10,10 0 0,0 12,2z" />
+
+    <!-- House roof (white triangle) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M6,11 L12,5 L18,11 Z" />
+
+    <!-- House body (white rectangle as path) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M6,11 L18,11 L18,18 L6,18 Z" />
+
+    <!-- Door (purple rectangle as path) -->
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M11,14 L13,14 L13,18 L11,18 Z" />
+
+    <!-- Left wheel (white circle using path) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M7,19 A2,2 0 1,1 6.99,19 Z" />
+
+    <!-- Right wheel (white circle using path) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M17,19 A2,2 0 1,1 16.99,19 Z" />
+
+    <!-- Wheel connectors (purple line) -->
+    <path
+        android:strokeColor="#8B5CF6"
+        android:strokeWidth="1.5"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M7,19 L10,16 L14,16 L17,19" />
+</vector>
